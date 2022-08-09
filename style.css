@@ -1,0 +1,51 @@
+body {
+   
+}
+
+#th { 
+  width:50%;
+}
+
+.pincipal{
+background:#CCCCCC;
+padding:30px;
+}
+ .titulo-centralizado{
+ 	padding-left: 20px;
+ }
+
+
+.titulo-centralizado{
+	text-align: center;
+}
+
+p {
+    text-align: center
+}
+
+#missao {
+	style="font-size: 20px
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.intens {
+	  font-size:italic
+}
+
+.sobre {
+	background: #FFFFFF;
+	padding: 20px;
+}
+ 
+ul {
+	display:inline-block;
+	vertical-align: top;
+	width:20%;
+	margin-right:15%;
+}
+.imagemhj {
+	width:50%;
+}
